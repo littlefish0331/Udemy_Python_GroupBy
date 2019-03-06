@@ -1,0 +1,39 @@
+# Pandas Basics and GroupBy: Intro to Python Data Science
+
+[課程網址](https://www.udemy.com/pandas-basics-and-groupby-intro-to-python-data-science/)
+
+---
+## 影片01
+課程中將學到的東西
+- install python
+- import real data into pandas
+- inspect and analyze real data
+- visualize rreal data
+- groupby operation
+- advanced groupby
+- instructed and interactive exercises with three levels of difficulty
+
+誰是適合上這樣的課程
+- Data Science Beginners
+- Data Science PRO's
+- Everybody who want to switch data project from Excel to more powerful/flexible tools.
+
+---
+## 影片02
+install python environment
+利用Anaconda安裝可以省去很多麻煩~
+會預先安裝好很多套件
+不過Anaconda會要安裝一陣子
+
+從官網安裝anaconda
+往下拉還可以看到有個連結packages included in anaconda，點進去看就可以看到有哪些套件會被Anaconda安裝~ 
+還有一些其他連結可以點進去看看
+
+### [註記: Anaconda中的python]
+我沒有看到一個連結是可以改anaconda中的python套件
+所以利用anaconda安裝python一定會是安裝最新版可用的python
+但是風險是可能有其他套件與最新版的python不合
+
+
+
+
